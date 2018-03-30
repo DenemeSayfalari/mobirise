@@ -29,10 +29,10 @@ body {
 }
 .display-2 {
   font-family: 'Patua One', display;
-  font-size: 3.7rem;
+  font-size: 3.4rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5.92rem;
+  font-size: 5.44rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -43,17 +43,17 @@ body {
 }
 .display-5 {
   font-family: 'Patua One', display;
-  font-size: 1.5rem;
+  font-size: 2.3rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.68rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -67,9 +67,9 @@ body {
     line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.96rem;
-    font-size: calc( 1.945rem + (3.7 - 1.945) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.945rem + (3.7 - 1.945) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.72rem;
+    font-size: calc( 1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.8399999999999999rem + (3.4 - 1.8399999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.84rem;
+    font-size: calc( 1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.455rem + (2.3 - 1.455) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -655,13 +655,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1808,7 +1808,7 @@ body {
 }
 .cid-qNJNsCsqRH DIV {
   color: #232323;
-  text-align: center;
+  text-align: right;
 }
 .cid-qNJNuhbpGT {
   padding-top: 45px;
@@ -1834,7 +1834,7 @@ body {
 }
 .cid-qNJNuhbpGT DIV {
   color: #f9f295;
-  text-align: left;
+  text-align: right;
 }
 .cid-qNJNx3Mge5 {
   padding-top: 60px;
@@ -1859,7 +1859,7 @@ body {
   }
 }
 .cid-qNJNx3Mge5 DIV {
-  text-align: left;
+  text-align: right;
   color: #b2ccd2;
 }
 .cid-qNJK3mVi42 {
@@ -1886,7 +1886,7 @@ body {
 }
 .cid-qNJK3mVi42 DIV {
   color: #f7ed4a;
-  text-align: left;
+  text-align: right;
 }
 .cid-qNJPpXHW2G {
   padding-top: 60px;
